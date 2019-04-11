@@ -1,0 +1,22 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+}
+
+blockquote {
+  border-left: solid 5px #ddd;
+  padding-left: 10px;
+  margin-left: 0px;
+}
+
+nav {
+  a {
+      color: green;
+      text-decoration: none;
+      margin-right: 20px;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+}
