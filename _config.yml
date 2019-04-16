@@ -1,0 +1,8 @@
+title: My awesome site
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
